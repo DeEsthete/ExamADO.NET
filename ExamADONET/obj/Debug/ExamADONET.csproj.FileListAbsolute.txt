@@ -1,0 +1,13 @@
+c:\users\павлове\source\repos\ExamADONET\ExamADONET\bin\Debug\ExamADONET.exe.config
+c:\users\павлове\source\repos\ExamADONET\ExamADONET\bin\Debug\ExamADONET.exe
+c:\users\павлове\source\repos\ExamADONET\ExamADONET\bin\Debug\ExamADONET.pdb
+c:\users\павлове\source\repos\ExamADONET\ExamADONET\bin\Debug\EntityFramework.dll
+c:\users\павлове\source\repos\ExamADONET\ExamADONET\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\павлове\source\repos\ExamADONET\ExamADONET\bin\Debug\EntityFramework.xml
+c:\users\павлове\source\repos\ExamADONET\ExamADONET\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\павлове\source\repos\ExamADONET\ExamADONET\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\павлове\source\repos\ExamADONET\ExamADONET\obj\Debug\ExamADONET.csprojResolveAssemblyReference.cache
+c:\users\павлове\source\repos\ExamADONET\ExamADONET\obj\Debug\ExamADONET.csproj.CoreCompileInputs.cache
+c:\users\павлове\source\repos\ExamADONET\ExamADONET\obj\Debug\ExamADONET.csproj.CopyComplete
+c:\users\павлове\source\repos\ExamADONET\ExamADONET\obj\Debug\ExamADONET.exe
+c:\users\павлове\source\repos\ExamADONET\ExamADONET\obj\Debug\ExamADONET.pdb
